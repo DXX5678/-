@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studentcontract>
+  <student studentid="14184501">
+    <name>丁旭行</name>
+    <sex>男</sex>
+    <age>20</age>
+    <birthdate>2000-10-24</birthdate>
+    <phone>19851627042</phone>
+    <homeaddress>山东枣庄</homeaddress>
+    <email>583634562@qq.com</email>
+    <profession>计算机科学与技术</profession>
+  </student>
+</studentcontract>
